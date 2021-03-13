@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @pgonzalesc
+- 👀 I’m interested in web and mobile development
+- 💻 I have knowledge of web programming languages like PHP, Javascript and mobile programming like React Native 
+- 🌱 I’m currently learning Redux
+- 💪 I’m looking to collaborate on web and mobile projects
+- 📫 How to reach me: https://www.linkedin.com/in/pedro-gonzales-camacho
